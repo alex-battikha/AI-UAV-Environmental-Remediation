@@ -1,0 +1,7 @@
+WARNING: You should uninstall ModemManager as it conflicts with APM and Pixhawk
+Connect /dev/ttyTHS1 source_system=255
+Log Directory: 
+Telemetry log: mav.tlog
+Waiting for heartbeat from /dev/ttyTHS1
+MAV> link 1 down
+MAV> MAV> 
